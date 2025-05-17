@@ -25,5 +25,3 @@ UA789 LAX-JFK 22:15, DELAY, Gate: A10(Incorrecto)
 Muestra con el comando “npm start” desde la consola de windows 
 
 ![Screenshot 2025-05-17 173628](https://github.com/user-attachments/assets/9aaee9d1-8b6b-4843-ae23-e36fb32f170d)
-
-Muestra de tokens
