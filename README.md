@@ -9,6 +9,8 @@ Node.js y npm
 ANTLR4
 Ejemplo con su árbol
 AA123 JFK-LAX 15:30, ON TIME, Gate: B12(Correcto)
-![vuelo g4 parse-tree](https://github.com/user-attachments/assets/a5f3d3ae-0232-4e45-8ce2-d8bc932d30f0)
+![Screenshot 2025-05-17 173923](https://github.com/user-attachments/assets/56602bc8-0335-4267-9ef7-aac9de92bfa2)
 UA789 LAX-JFK 22:15, DELAY, Gate: A10(Incorrecto)
-![vuelo g4 parse-tree](https://github.com/user-attachments/assets/28113617-b7be-41e3-9767-ee7b9831aec0)
+![Screenshot 2025-05-17 173851](https://github.com/user-attachments/assets/2d392ce8-3369-4a9c-8d64-3e1666e60f90)
+Muestra con el comando “npm start” desde la consola de windows 
+![Screenshot 2025-05-17 173628](https://github.com/user-attachments/assets/9aaee9d1-8b6b-4843-ae23-e36fb32f170d)
