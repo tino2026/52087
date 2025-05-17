@@ -2,7 +2,7 @@ Legajo 52087
 Nombre Martin Quiroga
 Este proyecto implementa un analizador léxico y sintáctico con ANTLR4 y JavaScript, que interpreta líneas de información sobre vuelos, como por ejemplo: AA123 JFK-LAX 15:30, DELAYED, Gate: B12
 El analizador verifica que el formato sea válido introducido en el input.txt y traduce la línea a un objeto JavaScript.
-Se ingresa un ejemplo como “AA123 JFK-LAX 15:30, DELAYED, Gate: B12” y con este formato se debería generar el árbol correctamente, en caso contrario por ejemplo “AA123 JFK-LAX 15:30, DELAY, Gate: B12” Al aparecer DELAY aparece error 
+Se ingresa un ejemplo como “AA123 JFK-LAX 15:30, DELAYED, Gate: B12” y con este formato se debería generar el árbol correctamente, en caso contrario por ejemplo “AA123 JFK-LAX 15:30, DELAY, Gate: B12” Al aparecer DELAY aparece el siguiente error "Parser error (1, 22): mismatched input 'D' expecting {'ON TIME', 'DELAYED', 'CANCELED'}"
 
 Requisitos
 Java (JDK 8 o superior)
